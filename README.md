@@ -1,1 +1,1 @@
-# odin_recipes
+# odin_recipes This is a project that I will use to showcase the skills I have acquired from the courses on HTML in The Odin Project
